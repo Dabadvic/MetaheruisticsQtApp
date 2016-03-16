@@ -1,0 +1,5 @@
+La carpeta Deployment incluye la versión ejecutable del programa, junto con las librerías básicas necesarias para su ejecución.
+
+La carpeta Instancias incluye todos los archivos .dat que conforman el conjunto de instancias del problema.
+
+La carpeta Meta1a incluye todo el código fuente del programa y es además un proyecto que puede ser abierto con Qt.
